@@ -14,7 +14,7 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
-        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
 
       </Head>
 
@@ -35,9 +35,9 @@ export default function Home() {
               <button className="btn btn-danger"> Start Investing Now <i className="fa fa-arrow-right"></i></button>
             </div>
             <div className="col-xl-6">
-            <div className="img-block">
-              <img src="images/finance-graphics.png" alt="" />
-            </div>
+              <div className="img-block">
+                <img src="images/finance-graphics.png" alt="" />
+              </div>
             </div>
           </div>
         </div>
@@ -80,93 +80,93 @@ export default function Home() {
           </div>
 
           <div id="carouselExampleFade" className="carousel slide   " data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-    <div className="row align-items-center">
-            <div className="col-lg-6">
-              <img src="images/img-video.png" alt="" />
-            </div>
-            <div className="col-lg-6 ">
-              <div className=" author-description">
-                <img src="images/icon-logo-c.png" alt="" />
-                <h3> " FAAD helped us to reach our business goals "</h3>
-                <p>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <div className="row align-items-center">
+                  <div className="col-lg-6">
+                    <img src="images/img-video.png" alt="" />
+                  </div>
+                  <div className="col-lg-6 ">
+                    <div className=" author-description">
+                      <img src="images/icon-logo-c.png" alt="" />
+                      <h3> " FAAD helped us to reach our business goals "</h3>
+                      <p>
 
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                  minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                  aliquip ex ea commodo consequat.
-                </p>
-                <div className="author-footer">
-                  <h4>  Thomas Edward <br /> CEO, Lorem Company, USA </h4>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                        minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                        aliquip ex ea commodo consequat.
+                      </p>
+                      <div className="author-footer">
+                        <h4>  Thomas Edward <br /> CEO, Lorem Company, USA </h4>
+                      </div>
+
+
+                    </div>
+                  </div>
                 </div>
+              </div>
+              <div class="carousel-item">
+                <div className="row align-items-center">
+                  <div className="col-lg-6">
+                    <img src="images/img-video.png" alt="" />
+                  </div>
+                  <div className="col-lg-6 ">
+                    <div className=" author-description">
+                      <img src="images/icon-logo-c.png" alt="" />
+                      <h3> " FAAD helped us to reach our business goals "</h3>
+                      <p>
+
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                        minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                        aliquip ex ea commodo consequat.
+                      </p>
+                      <div className="author-footer">
+                        <h4>  Thomas Edward <br /> CEO, Lorem Company, USA </h4>
+                      </div>
 
 
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div className="row align-items-center">
+                  <div className="col-lg-6">
+                    <img src="images/img-video.png" alt="" />
+                  </div>
+                  <div className="col-lg-6 ">
+                    <div className=" author-description">
+                      <img src="images/icon-logo-c.png" alt="" />
+                      <h3> " FAAD helped us to reach our business goals "</h3>
+                      <p>
+
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                        minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                        aliquip ex ea commodo consequat.
+                      </p>
+                      <div className="author-footer">
+                        <h4>  Thomas Edward <br /> CEO, Lorem Company, USA </h4>
+                      </div>
+
+
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
           </div>
-    </div>
-    <div class="carousel-item">
-    <div className="row align-items-center">
-            <div className="col-lg-6">
-              <img src="images/img-video.png" alt="" />
-            </div>
-            <div className="col-lg-6 ">
-              <div className=" author-description">
-                <img src="images/icon-logo-c.png" alt="" />
-                <h3> " FAAD helped us to reach our business goals "</h3>
-                <p>
 
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                  minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                  aliquip ex ea commodo consequat.
-                </p>
-                <div className="author-footer">
-                  <h4>  Thomas Edward <br /> CEO, Lorem Company, USA </h4>
-                </div>
-
-
-              </div>
-            </div>
-          </div>
-    </div>
-    <div class="carousel-item">
-    <div className="row align-items-center">
-            <div className="col-lg-6">
-              <img src="images/img-video.png" alt="" />
-            </div>
-            <div className="col-lg-6 ">
-              <div className=" author-description">
-                <img src="images/icon-logo-c.png" alt="" />
-                <h3> " FAAD helped us to reach our business goals "</h3>
-                <p>
-
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                  minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                  aliquip ex ea commodo consequat.
-                </p>
-                <div className="author-footer">
-                  <h4>  Thomas Edward <br /> CEO, Lorem Company, USA </h4>
-                </div>
-
-
-              </div>
-            </div>
-          </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-        
         </div>
       </section>
       <section className="hot-deal section-spacer">
