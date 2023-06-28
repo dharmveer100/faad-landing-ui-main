@@ -560,6 +560,7 @@ h4 {
     padding: 15px;
 
   }
+  &.finsher{ padding-bottom: 280px !important;}
 }
 
 .shif-upper {
@@ -1458,5 +1459,30 @@ footer {
 
   @media(max-width:1194px){
     padding-left: 0px;
+  }
+}
+
+.finishtra-card{ padding: 40px; background: #FFFFFF; border: 0px;
+  box-shadow: 6px 6px 18px #0000001F; text-align: center;
+  border-radius: 12px;
+figure { padding: 0 50px 50px 150px;}
+h3{ font-size: 52px; color: $primary; margin-bottom: 30px;}
+p{ font-size: 20px; line-height: 36px;}
+
+.btn-block{ margin-top: 40px;
+  .btn{ margin: 0 15px;}
+}
+}
+
+.keyfeature{
+  h4{ font-size: 28px; color: $primary; margin: 32px 0;}
+  ul{ display: flex; list-style: none;  padding: 0px;
+  li{ text-align: center; font-size: 18px;
+    strong{ font-family: "untitled_sansbold"; display: block;}
+  
+    @media(max-width:991px){
+      flex: 0 0 100%; max-width: 100%; margin-top: 30px;
+    }
+  }
   }
 }
