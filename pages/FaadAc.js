@@ -41,7 +41,7 @@ export default function FaadAc() {
         </div>
       </div>
    
-<section  className='hotdeal-section-top section-spacer finsher'>
+<section  className='hotdeal-section-top section-spacer finsher d-none d-lg-block'>
 
 
 </section>

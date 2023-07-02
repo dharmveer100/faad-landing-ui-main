@@ -50,8 +50,12 @@ export default function Header() {
                         </a>
 
                         <ul className="dropdown-menu">
-                          <li><a className="dropdown-item" href="#">Action</a></li>
-                          <li><a className="dropdown-item" href="#">Something else here</a></li>
+                          <li><a className="dropdown-item" href="/About">  About Company </a></li>
+                          <li><a className="dropdown-item" href="/Portfolio">Portfolio</a></li>
+                          <li><a className="dropdown-item" href="/FaadPartner">Partners </a></li>
+                          <li><a className="dropdown-item" href="#">FAAD Times</a></li>
+                          <li><a className="dropdown-item" href="/Contact">Contact</a></li>
+                           
                         </ul>
 
 
